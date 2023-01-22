@@ -1,9 +1,9 @@
-Recursion on lists - most basic 
+*Recursion on lists* - most basic 
 
-Recursion with multiple arguments - zip
+*Recursion with multiple arguments* - zip
 
-Multiple Recursion - fibonacci series
+*Multiple Recursion* - fibonacci series
 
-Mutual Recursion - odd/even in terms of each other
+*Mutual Recursion* - odd/even in terms of each other
 
 
